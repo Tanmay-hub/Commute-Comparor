@@ -1,7 +1,7 @@
 import './App.css';
 import { useState, useEffect, useRef } from 'react';
 import Dropdowns from './components/Dropdowns';
-import data from './city-data.json'; // Assuming you have a JSON file with city data
+import data from './city-data.json'; 
 import Buttons from './components/Buttons';
 import ClickRoutes from './components/ClickRoutes'
 import buildISODate from './utils/buildISODate';
