@@ -1,0 +1,487 @@
+{
+    "cities": {
+        "New York City, USA": {
+            "International Airport Arrivals": {
+                "name": "John F. Kennedy International Airport (JFK)",
+                "street_address": "Terminal 4 Arrivals, Queens, NY 11430"
+            },
+            "Internationl Airport Departures": {
+                "name": "John F. Kennedy International Airport (JFK)",
+                "street_address": "Terminal 4 Departures, Queens, NY 11430"
+            },
+            "Secondary Airport Arrivals": {
+                "name": "La Guardia Airport (LGA)",
+                "street_address": "Terminal B Arrivals, Queens, NY 11371"
+            },
+            "Secondary Airport Departures": {
+                "name": "La Guardia Airport (LGA)",
+                "street_address": "Terminal B Departures, Queens, NY 11371"
+            },
+            "Largest Train Station": {
+                "name": "Grand Central Terminal",
+                "street_address": "89 E 42nd St, New York, NY 10017"
+            },
+            "City Hall": {
+                "name": "New York City Hall",
+                "street_address": "City Hall Park, New York, NY 10007"
+            },
+            "Largest park": {
+                "name": "Pelham Bay Nature Center",
+                "street_address": "Pelham Bay Park, Bronx, NY 10465"
+            },
+            "Largest zoo": {
+                "name": "Bronx Zoo",
+                "street_address": "2300 Southern Blvd, Bronx, NY 10460"
+            },
+            "Hospital with the most staffed beds": {
+                "name": "NewYork-Presbyterian Hospital",
+                "street_address": "525 E 68th St, New York, NY 10065"
+            },
+            "Highest-ranked museum on TripAdvisor in August 2025": {
+                "name": "The National 9/11 Memorial & Museum",
+                "street_address": "180 Greenwich St, New York, NY 10007"
+            },
+            "Top-rated restaurant on TripAdvisor in August 2025": {
+                "name": "Lindens",
+                "street_address": "2 Renwick Street, New York, NY 10013"
+            },
+            "Top-rated bar/pub on TripAdvisor in August 2025": {
+                "name": "Megan's Bar and Kitchen",
+                "street_address": "7 W 45th St, New York, NY 10036"
+            },
+            "Highest-ranked architectural building on TripAdvisor in August 2025": {
+                "name": "Empire State Building",
+                "street_address": "20 W 34th St, New York, NY 10001"
+            },
+            "Largest sporting arena in the metropolitan area": {
+                "name": "MetLife Stadium",
+                "street_address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073"
+            },
+            "Largest shopping mall in the metropolitan area": {
+                "name": "American Dream Meadowlands",
+                "street_address": "1 American Dream Wy, East Rutherford, NJ 07073"
+            },
+            "Downtown of the next largest city in the metropolitan area": {
+                "name": "Downtown Jersey City",
+                "street_address": "Jersey City, NJ"
+            },
+            "latitude": 40.7128,
+            "longitude": -74.0060,
+            "timezone": "America/New_York"
+        },
+        "Los Angeles, USA": {
+            "International Airport Arrivals": {
+                "name": "Los Angeles International Airport (LAX)",
+                "street_address": "Tom Bradley International Terminal Arrivals"
+            },
+            "International Airport Departures": {
+                "name": "Los Angeles International Airport (LAX)",
+                "street_address": "Tom Bradley International Terminal Departures"
+            },
+            "Secondary Airport Arrivals": {
+                "name": "Hollywood Burbank Airport (BUR)",
+                "street_address": "2627 N Hollywood Way Terminal B Burbank, CA 91505"
+            },
+            "Secondary Airport Departures": {
+                "name": "Hollywood Burbank Airport (BUR)",
+                "street_address": "2627 N Hollywood Way Terminal B Burbank, CA 91505"
+            },
+            "Largest Train Station": {
+                "name": "Union Station",
+                "street_address": "800 N Alameda St, Los Angeles, CA 90012"
+            },
+            "City Hall": {
+                "name": "Los Angeles City Hall",
+                "street_address": "200 N Spring St, Los Angeles, CA 90012"
+            },
+            "Top-rated restaurant on TripAdvisor in August 2025": {
+                "name": "El Compadre",
+                "street_address": "1449 W Sunset Blvd, Los Angeles, CA 90026-3457"
+            },
+            "Top-rated bar/pub on TripAdvisor in August 2025": {
+                "name": "Karl Strauss Brewing Company",
+                "street_address": "600 Wilshire Blvd. Suite 100, Los Angeles, CA 90017"
+            },
+            "Highest-ranked architectural building on TripAdvisor in August 2025": {
+                "name": "Walt Disney Concert Hall",
+                "street_address": "111 S Grand Ave, Los Angeles, CA 90012-3034"
+            },
+            "Highest-ranked museum on TripAdvisor in August 2025": {
+                "name": "The Getty Center",
+                "street_address": "1200 Getty Center Dr, Los Angeles, CA 90049"
+            },
+            "Largest park": {
+                "name": "Griffith Park",
+                "street_address": "4730 Crystal Springs Dr, Los Angeles, CA 90027"
+            },
+            "Largest zoo": {
+                "name": "Los Angeles Zoo",
+                "street_address": "5333 Zoo Dr, Los Angeles, CA 90027"
+            },
+            "Largest sporting arena in the metropolitan area": {
+                "name": "Rose Bowl",
+                "street_address": "1001 Rose Bowl Dr, Pasadena, CA 91103"
+            },
+            "Largest shopping mall in the metropolitan area": {
+                "name": "South Coast Plaza",
+                "street_address": "3333 Bristol St, Costa Mesa, CA 92626"
+            },
+            "Hospital with the most staffed beds": {
+                "name": "Cedars-Sinai Medical Center",
+                "street_address": "8700 Beverly Blvd, Los Angeles, CA 90048"
+            },
+            "Downtown of the next largest city in the metropolitan area": {
+                "name": "Downtown Long Beach",
+                "street_address": "Long Beach, CA"
+            },
+            "latitude": 34.0522,
+            "longitude": -118.2437,
+            "timezone": "America/Los_Angeles"
+        },
+        "Chicago, USA": {
+            "International Airport Arrivals": {
+                "name": "O'Hare International Airport (ORD)",
+                "street_address": "Terminal 5 Arrivals, Chicago, IL 60666"
+            },
+            "International Airport Departures": {
+                "name": "O'Hare International Airport (ORD)",
+                "street_address": "Terminal 5 Departures, Chicago, IL 60666"
+            },
+            "Secondary Airport Arrivals": {
+                "name": "Midway International Airport (MDW)",
+                "street_address": "Terminal Arrivals, Chicago, IL 60629"
+            },
+            "Secondary Airport Departures": {
+                "name": "Midway International Airport (MDW)",
+                "street_address": "Terminal Departures, Chicago, IL 60629"
+            },
+            "Largest Train Station": {
+                "name": "Union Station",
+                "street_address": "225 S Canal St, Chicago, IL 60606"
+            },
+            "City Hall": {
+                "name": "Chicago City Hall",
+                "street_address": "121 N LaSalle St, Chicago, IL 60602"
+            },
+            "Top-rated restaurant on TripAdvisor in August 2025": {
+                "name": "Ambar Restaurant",
+                "street_address": "700 N Clark St, Chicago, IL 60654"
+            },
+            "Top-rated bar/pub on TripAdvisor in August 2025": {
+                "name": "Fadó Irish Pub",
+                "street_address": "100 W Grand Ave, Chicago, IL 60654"
+            },
+            "Highest-ranked architectural building on TripAdvisor in August 2025": {
+                "name": "Skydeck Chicago - Willis Tower",
+                "street_address": "233 S Wacker Drive, Chicago, IL 60606-7147"
+            },
+            "Highest-ranked museum on TripAdvisor in August 2025": {
+                "name": "The Art Institute of Chicago",
+                "street_address": "111 S Michigan Ave, Chicago, IL 60603"
+            },
+            "Largest park": {
+                "name": "Lincoln Park Conservatory",
+                "street_address": "2391 N Stockton Dr, Chicago, IL 60614"
+            },
+            "Largest zoo": {
+                "name": "Searle Visitor Center, Lincoln Park Zoo",
+                "street_address": "2400 N Cannon Dr, Chicago, IL 60614"
+            },
+            "Largest sporting arena in the metropolitan area": {
+                "name": "Soldier Field",
+                "street_address": "1410 Special Olympics Dr, Chicago, IL 60605"
+            },
+            "Largest shopping mall in the metropolitan area": {
+                "name": "Woodfield Mall",
+                "street_address": "5 Woodfield Mall, Schaumburg, IL 60173"
+            },
+            "Hospital with the most staffed beds": {
+                "name": "Northwestern Memorial Hospital",
+                "street_address": "251 E Huron St, Chicago, IL 60611"
+            },
+            "Downtown of the next largest city in the metropolitan area": {
+                "name": "Downtown Aurora",
+                "street_address": "Aurora, IL"
+            },
+            "latitude": 41.8781,
+            "longitude": -87.6298,
+            "timezone": "America/Chicago"
+        },
+        "Washington DC, USA": {
+            "International Airport Arrivals": {
+                "name": "Washington Dulles International Airport (IAD)",
+                "street_address": "Main Terminal Arrivals, 1 Saarinen Cir, Dulles, VA 20166"
+            },
+            "International Airport Departures": {
+                "name": "Washington Dulles International Airport (IAD)",
+                "street_address": "Main Terminal Departures, 1 Saarinen Cir, Dulles, VA 20166"
+            },
+            "Secondary Airport Arrivals": {
+                "name": "Ronald Reagan Washington National Airport (DCA)",
+                "street_address": "Terminal 2, Arlington, VA 22202"
+            },
+            "Secondary Airport Departures": {
+                "name": "Ronald Reagan Washington National Airport (DCA)",
+                "street_address": "Terminal 2, Arlington, VA 22202"
+            },
+            "Largest Train Station": {
+                "name": "Union Station",
+                "street_address": "50 Massachusetts Ave NE, Washington, DC 20002"
+            },
+            "City Hall": {
+                "name": "John A. Wilson Building",
+                "street_address": "1350 Pennsylvania Ave NW, Washington, DC 20004"
+            },
+            "Top-rated restaurant on TripAdvisor in August 2025": {
+                "name": "Gerrard Street Kitchen",
+                "street_address": "1515 Rhode Island Ave Nw, Washington DC, DC 20005"
+            },
+            "Top-rated bar/pub on TripAdvisor in August 2025": {
+                "name": "Mr. Henry's",
+                "street_address": "601 Pennsylvania Ave SE, Washington DC, DC 20003-4303"
+            },
+            "Highest-ranked architectural building on TripAdvisor in August 2025": {
+                "name": "Cathédrale nationale de Washington",
+                "street_address": "3101 Wisconsin Ave NW, Washington DC, DC 20016-5000"
+            },
+            "Highest-ranked museum on TripAdvisor in August 2025": {
+                "name": "Smithsonian Museum of Natural History",
+                "street_address": "10th St. & Constitution Ave. NW, Washington, DC 20560"
+            },
+            "Largest park": {
+                "name": "Rock Creek Park Nature Center and Planetarium",
+                "street_address": "5200 Glover Rd NW, Washington, DC 20015"
+            },
+            "Largest zoo": {
+                "name": "Smithsonian National Zoo",
+                "street_address": "3001 Connecticut Ave NW, Washington, DC 20008"
+            },
+            "Largest sporting arena in the metropolitan area": {
+                "name": "SECU Stadium",
+                "street_address": "90 Stadium Dr, College Park, MD 20742"
+            },
+            "Largest shopping mall in the metropolitan area": {
+                "name": "Tysons Corner Center",
+                "street_address": "1961 Chain Bridge Rd, Tysons, VA 22102"
+            },
+            "Hospital with the most staffed beds": {
+                "name": "MedStar Washington Hospital Center",
+                "street_address": "110 Irving St NW, Washington, DC 20010"
+            },
+            "Downtown of the next largest city in the metropolitan area": {
+            "name": "Downtown Oakland",
+            "street_address": "Oakland, CA"
+            },
+            "latitude": 38.9072,
+            "longitude": -77.0369,
+            "timezone": "America/New_York"
+        },
+        "San Francisco, USA": {
+            "International Airport Arrivals": {
+                "name": "San Francisco International Airport (SFO)",
+                "street_address": "100 International Terminal Arrivals, San Francisco, CA 94128"
+            },
+            "International Airport Departures": {
+                "name": "San Francisco International Airport (SFO)",
+                "street_address": "100 International Terminal Departures, San Francisco, CA 94128"
+            },
+            "Secondary Airport Arrivals": {
+                "name": "Oakland International Airport (OAK) Terminal 1",
+                "street_address": "1 Airport Dr, Oakland, CA 94621"
+            },
+            "Secondary Airport Departures": {
+                "name": "Oakland International Airport (OAK)",
+                "street_address": "1 Airport Dr, Oakland, CA 94621"
+            },
+            "Largest Train Station": {
+                "name": "San Francisco Caltrain Station",
+                "street_address": "700 4th St, San Francisco, CA 94107"
+            },
+            "City Hall": {
+                "name": "San Francisco City Hall",
+                "street_address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102"
+            },
+            "Top-rated restaurant on TripAdvisor in August 2025": {
+                "name": "Mersea Restaurant & Bar",
+                "street_address": "699 Avenue of the Palms Treasure Island, San Francisco, CA 94130"
+            },
+            "Top-rated bar/pub on TripAdvisor in August 2025": {
+                "name": "Gold Bar Distillery",
+                "street_address": "1 Avenue of the Palms, San Francisco, CA 94130"
+            },
+            "Highest-ranked architectural building on TripAdvisor in August 2025": {
+                "name": "The InterContinental Mark Hopkins building",
+                "street_address": "999 California St, San Francisco, CA 94108-2250"
+            },
+            "Highest-ranked museum on TripAdvisor in August 2025": {
+                "name": "Misalignment AI Museum",
+                "street_address": "7 Warriors Way Warriors Chase Center, San Francisco, CA 94158"
+            },
+            "Largest park": {
+                "name": "San Francisco Botanical Garden, Golden Gate Park",
+                "street_address": "1119 9th Ave, San Francisco, CA 94122"
+            },
+            "Largest zoo": {
+                "name": "San Francisco Zoo",
+                "street_address": "Sloat Blvd & Great Hwy, San Francisco, CA 94132"
+            },
+            "Largest sporting arena in the metropolitan area": {
+                "name": "Levi's Stadium",
+                "street_address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054"
+            },
+            "Largest shopping mall in the metropolitan area": {
+                "name": "Westfield Valley Fair",
+                "street_address": "2855 Stevens Creek Blvd, Santa Clara, CA 95050"
+            },
+            "Hospital with the most staffed beds": {
+                "name": "UCSF Medical Center",
+                "street_address": "505 Parnassus Ave, San Francisco, CA 94143"
+            },
+            "Downtown of the next largest city in the metropolitan area": {
+                "name": "Downtown San Jose",
+                "street_address": "San Jose, CA"
+            },
+            "latitude": 37.7749,
+            "longitude": -122.4194,
+            "timezone": "America/Los_Angeles"
+        },
+        "Toronto, Canada": {
+            "International Airport Arrivals": {
+                "name": "Pearson Airport (YYZ) Terminal 1",
+                "street_address": "6301 Airport Road, Mississauga, ON L5P1B2"
+            },
+            "International Airport Departures": {
+                "name": "Pearson Airport (YYZ) Terminal 1",
+                "street_address": "6301 Airport Road, Mississauga, ON L5P1B2"
+            },
+            "Secondary Airport Arrivals": {
+                "name": "Billy Bishop Airport (YTZ) Arrivals",
+                "street_address": "2 Eirann Quay Arrivals, Toronto, ON M5V 2R9"
+            },
+            "Secondary Airport Departures": {
+                "name": "Billy Bishop Airport (YTZ) Arrivals",
+                "street_address": "2 Eirann Quay Departures, Toronto, ON M5V 2R9"
+            },
+            "Largest Train Station": {
+                "name": "Toronto Union Station",
+                "street_address": "55 Front St W, Toronto, ON M5J 1E6, Canada"
+            },
+            "City Hall": {
+                "name": "Toronto City Hall",
+                "street_address": "100 Queen St W, Toronto, ON M5H 2N2, Canada"
+            },
+            "Top-rated restaurant on TripAdvisor in August 2025": {
+                "name": "Casa Madera",
+                "street_address": "550 Wellington St W Ground Floor, Toronto, Ontario M5V 2V4 Canada"
+            },
+            "Top-rated bar/pub on TripAdvisor in August 2025": {
+                "name": "Craft Beer Market Toronto",
+                "street_address": "1 Adelaide St E, Toronto, Ontario M5C 2V9 Canada"
+            },
+            "Highest-ranked architectural building on TripAdvisor in August 2025": {
+                "name": "CN Tower",
+                "street_address": "290 Bremner Blvd, Toronto, Ontario M5V 3L9 Canada"
+            },
+            "Highest-ranked museum on TripAdvisor in August 2025": {
+                "name": "Little Canada",
+                "street_address": "10 Dundas Street East, Toronto, Ontario M5B 2G9 Canada"
+            },
+            "Largest park": {
+                "name": "Rogue National Urban Park, Glen Eagles Vista",
+                "street_address": "7 Twyn Rivers Dr, Toronto, ON M1B 5R6, Canada"
+            },
+            "Largest zoo": {
+                "name": "Toronto Zoo",
+                "street_address": "2000 Meadowvale Road, Toronto, ON M1B 5K7"
+            },
+            "Largest sporting arena in the metropolitan area": {
+                "name": "Roger's Center",
+                "street_address": "1 Blue Jays Way, Toronto, ON M1V 1J3"
+            },
+            "Largest shopping mall in the metropolitan area": {
+                "name": "Square One",
+                "street_address": "100 City Centre Drive, Mississauga, ON L5B 2C9"
+            },
+            "Hospital with the most staffed beds": {
+                "name": "Toronto General Hospital",
+                "street_address": "200 Elizabeth Street, Toronto, ON M5G 2C4, Canada"
+            },
+            "Downtown of the next largest city in the metropolitan area": {
+                "name": "Mississauga Celebration Square",
+                "street_address": "300 City Centre Dr, Mississauga, ON L5B 3C1"
+            },
+            "latitude": 43.6532,
+            "longitude": -79.3832,
+            "timezone": "America/New_York"
+        },
+        "London, UK": {
+            "International Airport Arrivals": {
+                "name": "Heathrow Airport (LHR)",
+                "street_address": "Terminal 3, Hounslow, TW6 1QG, United Kingdom"
+            },
+            "International Airport Departures": {
+                "name": "Heathrow Airport (LHR)",
+                "street_address": "Terminal 3, Hounslow, TW6 1QG, United Kingdom"
+            },
+            "Secondary Airport Arrivals": {
+                "name": "Gatwick Airport (LGW)",
+                "street_address": "Gatwick Airport North Terminal, Gatwick, RH6 0PJ"
+            },
+            "Secondary Airport Departures": {
+                "name": "Gatwick Airport (LGW)",
+                "street_address": "Gatwick Airport North Terminal, Gatwick, RH6 0PJ"
+            },
+            "Largest Train Station": {
+                "name": "Waterloo Station",
+                "street_address": "London SE1 8SR, UK"
+            },
+            "City Hall": {
+                "name": "City Hall",
+                "street_address": "Kamal Chunchie Way, London E16 1ZE, UK"
+            },
+            "Top-rated restaurant on TripAdvisor in August 2025": {
+                "name": "Betto Tapas Restaurant & Cocktail Bar",
+                "street_address": "5 Fernlea Road, London SW12 9RT England"
+            },
+            "Top-rated bar/pub on TripAdvisor in August 2025": {
+                "name": "The K Bar",
+                "street_address": "109 - 113 Queen's Gate, London SW7 5JA England"
+            },
+            "Highest-ranked architectural building on TripAdvisor in August 2025": {
+                "name": "Houses of Parliament",
+                "street_address": "Parliament Square, London SW1A 0AA England"
+            },
+            "Highest-ranked museum on TripAdvisor in August 2025": {
+                "name": "The National Gallery",
+                "street_address": "Trafalgar Square, London WC2N 5DN England"
+            },
+            "Largest park": {
+                "name": "Lee Valley Park",
+                "street_address": "London E5 9BL, UK"
+            },
+            "Largest zoo": {
+                "name": "London Zoo",
+                "street_address": "Outer Cir, London NW1 4RY, United Kingdom"
+            },
+            "Largest sporting arena in the metropolitan area": {
+                "name": "Wembley Stadium",
+                "street_address": "Wembley HA9 0WS, UK"
+            },
+            "Largest shopping mall in the metropolitan area": {
+                "name": "Westfield London",
+                "street_address": "Ariel Way, London W12 7GF, UK"
+            },
+            "Hospital with the most staffed beds": {
+                "name": "St George's Hospital",
+                "street_address": "Blackshaw Rd, London SW17 0QT, United Kingdom"
+            },
+            "Downtown of the next largest city in the metropolitan area": {
+            "name": "Central Reading Library",
+            "street_address": "Abbey Square, Reading RG1 3BQ, UK"
+            },
+            "latitude": 51.5072,
+            "longitude": -0.1276,
+            "timezone": "Europe/London"
+        }
+    }
+}

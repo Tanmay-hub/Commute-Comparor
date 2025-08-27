@@ -15,18 +15,90 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
+  min-height:400vh
+  /*display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: center;*/
+  
 }
 
 .App-link {
   color: #61dafb;
 }
+
+.App-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two equal-width columns */
+  gap: 1%; /* space between cells */
+  width: 100%; /* full width of parent */
+}
+
+.App-cell-left {
+  display: flex;
+  align-items: center;
+  justify-content: end; /* vertical centering inside each cell */
+}
+
+.App-cell-right {
+  display: flex;
+  align-items: center;
+  justify-content: start; /* vertical centering inside each cell */
+}
+
+
+.App-date-time{
+  display: flex;
+  justify-content: start;
+  column-gap: 0px;
+  margin-top: 0px;
+}
+
+.select-custom {
+  background-color: #d1cdaa; /* similar tan */
+  color: black;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 16px;  
+}
+
+.maps-grid {
+  display: grid;
+  /*grid-template-columns: repeat(2, 1fr);*/
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 7.5%;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.map-with-info {
+  margin-bottom: 2rem;
+}
+
+.infobox {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 12px;
+  margin-top: 8px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.infobox h3 {
+  margin: 0 0 8px 0;
+}
+
+.infobox table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.infobox td {
+  padding: 4px 6px;
+  vertical-align: top;
+}
+
 
 @keyframes App-logo-spin {
   from {
